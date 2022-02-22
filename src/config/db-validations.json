@@ -1,0 +1,24 @@
+{
+    
+    "strings": {
+        "min": 3,
+        "max": 60,
+        "notEmpty": true,
+        "notNull": true
+    },
+
+
+    "email": {
+        "isEmail": true,
+        "notEmpty": true,
+        "notNull": true,
+        "max": 60
+    },
+
+    
+    "password": {
+        "min": 8,
+        "notEmpty": true,
+        "notNull": true
+    }
+}
